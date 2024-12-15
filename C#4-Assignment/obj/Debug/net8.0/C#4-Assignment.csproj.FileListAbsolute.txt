@@ -1,0 +1,14 @@
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\bin\Debug\net8.0\C#4-Assignment.exe
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\bin\Debug\net8.0\C#4-Assignment.deps.json
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\bin\Debug\net8.0\C#4-Assignment.runtimeconfig.json
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\bin\Debug\net8.0\C#4-Assignment.dll
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\bin\Debug\net8.0\C#4-Assignment.pdb
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\C#4-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\C#4-Assignment.AssemblyInfoInputs.cache
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\C#4-Assignment.AssemblyInfo.cs
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\C#4-Assignment.csproj.CoreCompileInputs.cache
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\C#4-Assignment.dll
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\refint\C#4-Assignment.dll
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\C#4-Assignment.pdb
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\C#4-Assignment.genruntimeconfig.cache
+D:\.Net\Route\C# Basic\Visual Studio\C#4-Assignment\obj\Debug\net8.0\ref\C#4-Assignment.dll

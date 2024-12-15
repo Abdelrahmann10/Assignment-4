@@ -1,0 +1,14 @@
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\bin\Debug\net8.0\C# 3.exe
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\bin\Debug\net8.0\C# 3.deps.json
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\bin\Debug\net8.0\C# 3.runtimeconfig.json
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\bin\Debug\net8.0\C# 3.dll
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\bin\Debug\net8.0\C# 3.pdb
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\C# 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\C# 3.AssemblyInfoInputs.cache
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\C# 3.AssemblyInfo.cs
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\C# 3.csproj.CoreCompileInputs.cache
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\C# 3.dll
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\refint\C# 3.dll
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\C# 3.pdb
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\C# 3.genruntimeconfig.cache
+D:\.Net\Route\C# Basic\Visual Studio\C# 3\obj\Debug\net8.0\ref\C# 3.dll
